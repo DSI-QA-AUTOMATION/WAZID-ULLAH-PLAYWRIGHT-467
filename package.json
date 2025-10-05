@@ -1,0 +1,22 @@
+{
+  "name": "wazid-ullah-playwright-467",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSI-QA-AUTOMATION/WAZID-ULLAH-PLAYWRIGHT-467.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSI-QA-AUTOMATION/WAZID-ULLAH-PLAYWRIGHT-467/issues"
+  },
+  "homepage": "https://github.com/DSI-QA-AUTOMATION/WAZID-ULLAH-PLAYWRIGHT-467#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.6.2"
+  }
+}
