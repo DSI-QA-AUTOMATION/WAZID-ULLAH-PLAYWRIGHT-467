@@ -16,7 +16,13 @@
   },
   "homepage": "https://github.com/DSI-QA-AUTOMATION/WAZID-ULLAH-PLAYWRIGHT-467#readme",
   "devDependencies": {
-    "@playwright/test": "^1.55.1",
-    "@types/node": "^24.6.2"
-  }
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^24.6.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "type": "commonjs"
 }
