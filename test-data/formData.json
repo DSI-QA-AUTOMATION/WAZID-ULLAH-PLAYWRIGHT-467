@@ -1,0 +1,54 @@
+{
+  "form1": {
+    "firstName": "Robert",
+    "lastName": "Anderson",
+    "email": "robert.anderson@example.com",
+    "mobileNumber": "9876543215",
+    "gender": "Male",
+    "hobbies": ["Sports", "Reading"],
+    "address": "789 Cedar Lane, Dallas, TX 75201",
+    "state": "Delhi",
+    "city": "Delhi"
+  },
+  "form2": {
+    "firstName": "Jessica",
+    "lastName": "Martinez",
+    "email": "jessica.martinez@example.com",
+    "mobileNumber": "9876543216",
+    "gender": "Female",
+    "hobbies": ["Reading", "Music"],
+    "address": "456 Birch Street, San Antonio, TX 78201",
+    "state": "Rajasthan",
+    "city": "Jaipur"
+  },
+  "form3": {
+    "firstName": "Christopher",
+    "lastName": "Garcia",
+    "email": "christopher.garcia@example.com",
+    "mobileNumber": "9876543217",
+    "gender": "Male",
+    "hobbies": ["Sports"],
+    "address": "321 Walnut Drive, San Diego, CA 92101",
+    "state": "Haryana",
+    "city": "Panipat"
+  },
+  "form4": {
+    "firstName": "Amanda",
+    "lastName": "Rodriguez",
+    "email": "amanda.rodriguez@example.com",
+    "mobileNumber": "9876543218",
+    "gender": "Female",
+    "hobbies": ["Music"],
+    "address": "654 Spruce Road, San Jose, CA 95101",
+    "state": "Punjab",
+    "city": "Chandigarh"
+  },
+  "webTableUser": {
+    "firstName": "William",
+    "lastName": "Taylor",
+    "email": "william.taylor@example.com",
+    "age": "32",
+    "salary": "75000",
+    "department": "IT"
+  }
+}

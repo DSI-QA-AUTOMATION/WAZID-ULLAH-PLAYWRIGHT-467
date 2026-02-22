@@ -1,6 +1,6 @@
 const {test, expect} = require('@playwright/test')
 
-test('Click on Element Card', async({page})=>{
+test('Navigate to Elements section', async({page})=>{
 
 
 await page.goto('https://demoqa.com/');
@@ -11,7 +11,7 @@ await elementsCard.click();
 
 })
 
-test('Click on Forms card', async ({ page }) => {
+test('Navigate to Forms section', async ({ page }) => {
 
   await page.goto('https://demoqa.com/');
 
@@ -21,7 +21,7 @@ test('Click on Forms card', async ({ page }) => {
 
 });
 
-test('Click on Interactions card', async ({ page }) => {
+test('Navigate to Interactions section', async ({ page }) => {
 
   await page.goto('https://demoqa.com/');
 

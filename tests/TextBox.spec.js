@@ -1,6 +1,6 @@
 const {test, expect} = require('@playwright/test')
 
-test('Fill out Text Boxes and Submit', async({page})=>{
+test('Submit text input form', async({page})=>{
 
 
 await page.goto('https://demoqa.com/text-box');

@@ -1,6 +1,6 @@
 const {test, expect} = require('@playwright/test')
 
-test('Browse Website', async({page})=>{
+test('Navigate home page', async({page})=>{
 
 
 await page.goto('https://demoqa.com/');

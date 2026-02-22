@@ -1,0 +1,62 @@
+{
+  "user1": {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "mobileNumber": "9876543210",
+    "gender": "Male",
+    "address": "123 Main Street, New York, NY 10001",
+    "state": "NCR",
+    "city": "Delhi",
+    "dateOfBirth": "15/03/1990"
+  },
+  "user2": {
+    "id": 2,
+    "firstName": "Sarah",
+    "lastName": "Smith",
+    "email": "sarah.smith@example.com",
+    "mobileNumber": "9876543211",
+    "gender": "Female",
+    "address": "456 Oak Avenue, Los Angeles, CA 90001",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "dateOfBirth": "20/05/1995"
+  },
+  "user3": {
+    "id": 3,
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "email": "michael.johnson@example.com",
+    "mobileNumber": "9876543212",
+    "gender": "Male",
+    "address": "789 Pine Road, Chicago, IL 60601",
+    "state": "Haryana",
+    "city": "Panipat",
+    "dateOfBirth": "10/07/1992"
+  },
+  "user4": {
+    "id": 4,
+    "firstName": "Emily",
+    "lastName": "Brown",
+    "email": "emily.brown@example.com",
+    "mobileNumber": "9876543213",
+    "gender": "Female",
+    "address": "321 Elm Street, Houston, TX 77001",
+    "state": "Punjab",
+    "city": "Chandigarh",
+    "dateOfBirth": "25/11/1998"
+  },
+  "user5": {
+    "id": 5,
+    "firstName": "David",
+    "lastName": "Wilson",
+    "email": "david.wilson@example.com",
+    "mobileNumber": "9876543214",
+    "gender": "Male",
+    "address": "654 Maple Drive, Phoenix, AZ 85001",
+    "state": "Uttarakhand",
+    "city": "Dehradun",
+    "dateOfBirth": "30/09/1991"
+  }
+}
